@@ -1,0 +1,6 @@
+{
+  "dbhost": "rds-mysql-training.cqxztarevjfc.ap-south-1.rds.amazonaws.com",
+  "dbname": "dbname",
+  "dbuser": "root",
+  "dbpassword": "dikshita"
+}
